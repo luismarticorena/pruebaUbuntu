@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_mi_perfil">
+        <item>menu_mi_perfil1</item>
+        <item>menu_mi_perfil2</item>
+        <item>menu_mi_perfil3</item>
+        <item>menu_mi_perfil4</item>
+        <item>menu_mi_perfil5</item>
+    </string-array>
+  
+    <array name="menu_mi_perfil_icon">
+        <item>ic_action_settings</item>
+        <item>ic_save</item>
+        <item>action_add</item>
+        <item>ic_launcher_</item>
+        <item>action_add</item>
+    </array>
+
+    <string-array name="menu_la_ciudad">
+        <item>menu_la_ciudad1</item>
+        <item>menu_la_ciudad2</item>
+        <item>menu_la_ciudad3</item>
+        <item>menu_la_ciudad4</item>
+    </string-array>
+    
+    <array name="menu_la_ciudad_icon">
+        <item>ic_action_settings</item>
+        <item>ic_save</item>
+        <item>action_add</item>
+        <item>ic_launcher_</item>
+    </array>
+    
+</resources>

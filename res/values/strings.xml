@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartCity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sIngresar">Entrar</string>
+    <string name="sRegistro">Registrarse</string>
+    <string name="sInvitado">Ingresar como invitado</string>
+    <string name="sUsuario">Usuario</string>
+    <string name="sPassword">Contraseña</string>
+    <string name="sAtras">Atras</string>
+    <string name="title_activity_menu_principal">MenuPrincipalActivity</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="sCorreo">Correo</string>
+    <string name="sNombres">Nombres</string>
+    <string name="sApellidos">Apellidos</string>
+    
+    <string name="hCorreo">Ingrese su Correo</string>
+    <string name="hContrasenha">Contraseña</string>
+	<string name="tRegistrate"><u><b>Registrate</b></u></string>
+	<string name="tInvitado">Invitado</string>
+	
+    
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#B7DC1C</color>
+    
+   
+    <string name="action_search">Buscar</string>
+    <string name="fragment1">Mapa</string>
+    <string name="fragment2">Calendario</string>
+    <string name="fragment3">Ajustes</string>
+    <string name="drawer_open">Menú Abierto</string>
+    <string name="drawer_close">Menú Cerrado</string>
+    
+    <string name="empty">Empty</string>
+    <string name="my_location">My Location</string>
+    <string name="my_location_snippet">This is my current location</string>
+    <string name="location_details">My Location Details</string> 
+    
+    <string name="action_save">Save</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_text">Navigation Drawer example.</string>
+    
+    <string name="menu_main_header1">Mi Cuenta</string>
+    <string name="menu_main_header2">La Ciudad</string>
+    <string name="menu_main_header3">Otros</string>
+    
+    <string name="ns_menu_open">Navigation Drawer Open Menu</string>
+    <string name="ns_menu_close">Navigation Drawer</string>
+    
+    <string name="menu_mi_perfil1">Nick</string>
+    <string name="menu_mi_perfil2">Configuración</string>
+    <string name="menu_mi_perfil3">Amigos</string>
+    <string name="menu_mi_perfil4">Calendario</string>
+    <string name="menu_mi_perfil5">Otros</string>
+   
+    <string name="menu_la_ciudad1">Mapa</string>
+    <string name="menu_la_ciudad2">Eventos</string>
+    <string name="menu_la_ciudad3">Lugares</string>
+    <string name="menu_la_ciudad4">Otros</string>
+    <string name="sRegistrar">Registrar</string>
+    <string name="sLimpiar">Limpiar</string>
+    <string name="sMensajeRegistro">Registro Usuario</string>
+    	
+</resources>
